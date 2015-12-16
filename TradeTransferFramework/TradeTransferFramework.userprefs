@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TradeTransfer/IosPlusAdapter.cs">
+    <Files>
+      <File FileName="TradeTransferFramework/Main.cs" Line="28" Column="3" />
+      <File FileName="TradeTransfer/TradeTransferAdapter.cs" Line="72" Column="37" />
+      <File FileName="TradeTransfer/DataLoader.cs" Line="35" Column="4" />
+      <File FileName="TradeTransfer/IosPlusAdapter.cs" Line="53" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="TradeTransfer/TradeTransferAdapter.cs" line="37" offsetX="770" offsetY="540" expression="InitiateTradeTransfer" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
